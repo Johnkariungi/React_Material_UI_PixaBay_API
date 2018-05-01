@@ -1,1 +1,1 @@
-# React_Material_UI_PixaBay_API
+# React & Material UI using PixaBay API
